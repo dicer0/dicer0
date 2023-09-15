@@ -15,7 +15,7 @@ al que queremos que nos dirija.-->
 <img align = "right" alt = "di_cer0 profile" width = "400" src = "http://dicer0.com/wp-content/uploads/2023/09/di_cer0-scroll-down.gif"/>&nbsp;
 <!--Esta línea de código fue agregada además de lo que arrojó el sitio para añadir un gif que le diera estilo-->
 
-## 😎  About me:
+## 🤖  About me:
 <h6>
   - 🔥🧠 I’m currently learning <strong>artificial intelligence and machine learning</strong></br>
   - 👀📲 I’m looking to collaborate on <strong>IoT projects</strong></br>
