@@ -8,7 +8,7 @@ al que queremos que nos dirija.-->
 [![MasterHead](http://dicer0.com/wp-content/uploads/2023/09/GitHub-di_cer0-Banner-Mark-III.png)](https://dicer0.com/)
 <!--Esta línea de código fue agregada además de lo que arrojó el sitio para añadir un banner con una imagen que le diera estilo-->
 <h1 align="center">Hi 👋, I'm Diego - aka di_cer0 🦾</h1>
-<h6 align="center">A charismatic mechatronic inventor with experience in mechanics, electronics, robotics, software development, mobile applications, and project management, collaborating in multidisciplinary teams to carry out challenging projects. The art of technology is my passion, which directs the great sources of nature to enhance people's lives.</h6>
+<h6 align="center">A mechatronic engineer with experience in mechanics, electronics, robotics, software development, mobile applications, and project management, collaborating in multidisciplinary teams to carry out challenging projects. The art of technology is my passion, which directs the great sources of nature to enhance people's lives.</h6>
 <!--Esta línea de código fue agregada además de lo que arrojó el sitio para añadir un gif que le diera estilo-->
 </br>
 </br>
