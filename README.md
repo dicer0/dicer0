@@ -9,6 +9,7 @@ al que queremos que nos dirija.-->
 <h1 align="center">Hi 👋, I'm Diego - aka di_cer0</h1>
 <h6 align="center">A mechatronic engineer with experience in mechanics, electronics, robotics, software development, mobile applications, and project management, collaborating in multidisciplinary teams to carry out challenging projects. The art of technology is my passion, which directs the great sources of nature to enhance people's lives.</h6>
 <!--Esta línea de código fue agregada además de lo que arrojó el sitio para añadir un gif que le diera estilo-->
+
 </br>
 </br>
 <img align = "right" alt = "di_cer0 profile" width = "400" src = "http://dicer0.com/wp-content/uploads/2023/09/di_cer0-scroll-down.gif"/>&nbsp;
