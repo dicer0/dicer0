@@ -6,7 +6,6 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/-->
 [![MasterHead](URL de una imagen)](sitio al que te lleva si se le da clic): Con esta línea de códio se crea un banner que se 
 encontrará justo al inicio del sitio, a este se le necesita proporcionar el URL de la imagen que quiere mostrar, seguido del sito 
 al que queremos que nos dirija.-->
-
 [![MasterHead](http://dicer0.com/wp-content/uploads/2024/03/GitHub-di_cer0-Banner-Mark-II.png)](https://dicer0.com/)
 <!--Esta línea de código fue agregada además de lo que arrojó el sitio para añadir un banner con una imagen que le diera estilo-->
 <h1 align="center">Hi 👋, I'm Diego - aka di_cer0</h1>
