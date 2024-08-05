@@ -1,5 +1,4 @@
-<!--El lenguaje Markdown se utiliza para crear documentaciones en GitHub y sirve para conviertir texto simple a una variante de 
-código HTML.-->
+<!--El lenguaje Markdown se utiliza para crear documentaciones en GitHub, convirtiendo texto simple a una variante de código HTML.-->
 <!--Todo este código fue extraído del siguiente sitio que sirve para crear portadas para los perfiles de GitHub: 
 https://rahuldkjain.github.io/gh-profile-readme-generator/-->
 <!--Esta línea de código fue agregada además de lo que arrojó el sitio para añadir un banner con una imagen que le diera estilo
